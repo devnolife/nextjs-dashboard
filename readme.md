@@ -1569,7 +1569,5 @@ Untuk executing queries dan troubleshooting:
 **📚 Original Material**: [Next.js Official Learn Dashboard Course](https://nextjs.org/learn/dashboard-app)  
 **🏛️ Created by**: Next.js Team (Vercel)  
 **🔄 Adapted by**: Laboran Informatika FT-UNISMUH  
-**👨‍💻 Translator**: DevNoLife  
+**👨‍💻 Created by**: devnolife  
 **🌐 Language**: Bahasa Indonesia  
-
-> 💡 **Note**: Materi ini merupakan adaptasi dan terjemahan dari kursus resmi Next.js dengan penyesuaian untuk pembelajaran di lingkungan akademik Indonesia.
